@@ -1,1 +1,1 @@
-# una-sdm-lista-07
+Entrega de atividades referentes a Lista de Exercícios una-sdm-lista-07
