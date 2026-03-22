@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gXW9gBHdZWw=",
+  "success": true,
+  "projectFilePath": "A:\\Una\\una-sdm-lista-07\\EcoTrackApi\\EcoTrackApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\suporte\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.4\\microsoft.aspnetcore.openapi.10.0.4.nupkg.sha512",
+    "C:\\Users\\suporte\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
